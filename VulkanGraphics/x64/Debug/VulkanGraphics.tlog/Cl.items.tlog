@@ -1,0 +1,11 @@
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\EngineCore\VulkanHandles\VulkanCommandBuffer.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\VulkanCommandBuffer.obj
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\EngineCore\VulkanHandles\VulkanDevice.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\VulkanDevice.obj
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\EngineCore\VulkanHandles\VulkanFramebuffer.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\VulkanFramebuffer.obj
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\EngineCore\VulkanHandles\VulkanGraphicsPipeline.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\VulkanGraphicsPipeline.obj
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\EngineCore\VulkanHandles\VulkanImageViews.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\VulkanImageViews.obj
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\EngineCore\VulkanHandles\VulkanInstance.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\VulkanInstance.obj
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\EngineCore\VulkanHandles\VulkanSurface.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\VulkanSurface.obj
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\EngineCore\VulkanHandles\VulkanSwapchain.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\VulkanSwapchain.obj
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\EngineCore\Window\GlfwWindowHandle.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\GlfwWindowHandle.obj
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\Source.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\Source.obj
+C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\src\EngineCore\VulkanCore.cpp;C:\Dev\VisualStudio\VulkanGraphics\VulkanGraphics\x64\Debug\VulkanCore.obj
